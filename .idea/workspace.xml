@@ -1,21 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="015fea9a-3ee3-4381-9291-3c2945777b96" name="Default Changelist" comment="" />
+    <list default="true" id="015fea9a-3ee3-4381-9291-3c2945777b96" name="Default Changelist" comment="for deploy">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelCalculate/calculate/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelCalculate/calculate/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelCalculate/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelCalculate/main/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelCalculate/main/templates/main/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelCalculate/main/templates/main/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelCalculate/main/templates/main/loginFail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelCalculate/main/templates/main/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelCalculate/main/templates/main/signin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelCalculate/main/templates/main/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelCalculate/main/templates/main/verifyCode.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelCalculate/main/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelCalculate/media/user_upload_files/20201027/HMS_주희택_data.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelCalculate/sendEmail/templates/sendEmail/email_format.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelCalculate/sendEmail/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcelCalculate/ExcelCalculate/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExcelCalculate/ExcelCalculate/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcelCalculate/ExcelCalculate/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExcelCalculate/ExcelCalculate/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcelCalculate/calculate/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExcelCalculate/calculate/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcelCalculate/calculate/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExcelCalculate/calculate/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcelCalculate/calculate/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExcelCalculate/calculate/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcelCalculate/main/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExcelCalculate/main/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcelCalculate/main/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExcelCalculate/main/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcelCalculate/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExcelCalculate/main/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcelCalculate/sendEmail/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExcelCalculate/sendEmail/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1j3jsfjpcJcNgJpbxHBrE3zPVXa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\django\ExcelCalculate-with-Django" />
+      <recent name="D:\workspace\django\ExcelCalculate-with-Django\ExcelCalculate\main\templates\main" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -29,5 +79,24 @@
       <updated>1603039877209</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2342" y="47" key="CommitChangelistDialog2" timestamp="1603798408953">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state x="562" y="101" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1603700741984" />
+    <state x="2342" y="47" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1440.860@1920.0.1440.860" timestamp="1603798408953" />
+    <state x="2100" y="79" key="SettingsEditor" timestamp="1603693572741">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state x="2100" y="79" key="SettingsEditor/0.0.1920.1040/1920.0.1440.860@1920.0.1440.860" timestamp="1603693572741" />
+    <state x="2332" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1603795424296">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state x="2332" y="254" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1440.860@1920.0.1440.860" timestamp="1603795424296" />
+    <state x="2376" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603798397813">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state x="2376" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1440.860@1920.0.1440.860" timestamp="1603798397813" />
   </component>
 </project>
